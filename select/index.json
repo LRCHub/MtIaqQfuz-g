@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Grasshopper",
+  "base_artist": "04 Limited Sazabys",
+  "createdAt": "2026-02-11T09:09:04.185388Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Biz Grasshopper Experiment",
+      "artist": "Beastie Boys",
+      "has_synced": true,
+      "path": "select/01_The_Biz_Grasshopper_Experiment_Beastie_Boys.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Grasshopper Unit (Keep Movin')",
+      "artist": "Beastie Boys",
+      "has_synced": true,
+      "path": "select/02_The_Grasshopper_Unit_(Keep_Movin')_Beastie_Boys.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Grasshopper Unit (Keep Movin')",
+      "artist": "Beastie Boys",
+      "has_synced": true,
+      "path": "select/03_The_Grasshopper_Unit_(Keep_Movin')_Beastie_Boys.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "베짱이 찬가 (The Grasshopper Song)",
+      "artist": "써니힐",
+      "has_synced": false,
+      "path": "select/04_베짱이_찬가_(The_Grasshopper_Song)_써니힐.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "베짱이 찬가 (The Grasshopper Song)",
+      "artist": "Sunny Hill",
+      "has_synced": false,
+      "path": "select/05_베짱이_찬가_(The_Grasshopper_Song)_Sunny_Hill.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Grasshopper",
+      "artist": "The Mamas & The Papas",
+      "has_synced": true,
+      "path": "select/06_Grasshopper_The_Mamas_&_The_Papas.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Grasshopper",
+      "artist": "the Mamas and the Papas",
+      "has_synced": true,
+      "path": "select/07_Grasshopper_the_Mamas_and_the_Papas.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Grasshopper",
+      "artist": "Sevendust",
+      "has_synced": true,
+      "path": "select/08_Grasshopper_Sevendust.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Grasshopper Unit (Keep Movin’)",
+      "artist": "Beastie Boys",
+      "has_synced": true,
+      "path": "select/09_The_Grasshopper_Unit_(Keep_Movin’)_Beastie_Boys.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Biz Grasshopper Experiment",
+      "artist": "Beastie Boys / Biz Markie",
+      "has_synced": true,
+      "path": "select/10_The_Biz_Grasshopper_Experiment_Beastie_Boys___Biz_Markie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Grasshopper Unit",
+      "artist": "Beastie Boys",
+      "has_synced": false,
+      "path": "select/11_The_Grasshopper_Unit_Beastie_Boys.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Grasshopper",
+      "artist": "04 Limited Sazabys",
+      "has_synced": false,
+      "path": "select/pl_01_Grasshopper_04_Limited_Sazabys.txt"
+    }
+  ]
+}
